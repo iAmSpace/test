@@ -2,8 +2,10 @@
 
 <details><summary>Preview versions</summary>
 
-  preview_OptiFine_1.19.2_HD_U_I1_pre2: <a href="https://optifine.net/adloadx?f=preview_OptiFine_1.19.2_HD_U_I1_pre2.jar">Download</a>\
+  <br>
+  preview_OptiFine_1.19.2_HD_U_I1_pre2: <a href="https://optifine.net/adloadx?f=preview_OptiFine_1.19.2_HD_U_I1_pre2.jar">Download</a>
   preview_OptiFine_1.19.2_HD_U_I1_pre1: <a href="https://optifine.net/adloadx?f=preview_OptiFine_1.19.2_HD_U_I1_pre1.jar">Download</a>
+  </br>
 
 </details>
 
